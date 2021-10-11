@@ -23,7 +23,7 @@ export const styles = StyleSheet.create({
     height: '100%',
     // width: 100,
     alignContent: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-evenly',
     alignItems: 'center',
   },
   text: {
